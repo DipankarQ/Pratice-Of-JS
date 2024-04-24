@@ -1,3 +1,2 @@
 # Pratice-Of-JS
-pratices questons of js
-JavaScript every Topic.
+Lerning Every JavaScript every Topic.
